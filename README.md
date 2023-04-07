@@ -1,19 +1,19 @@
 Problem Statement -
 - To build a classification methodology to predict the quality of wafer sensors based on the given training data. 
-This is a complete end to end Machine Learning project till deployment. 
+- This is a complete end to end Machine Learning project till deployment. 
 
 Steps involved in this project are -
 
 - Functional Architecture
-Data Description
-Data Validation 
-Data Insertion in Database
-Model Training 
-Prediction Data Description
-Data Validation  
-Data Insertion in Database 
-Prediction 
-Deployment
+- Data Description
+- Data Validation 
+- Data Insertion in Database
+- Model Training 
+- Prediction Data Description
+- Data Validation  
+- Data Insertion in Database 
+- Prediction 
+- Deployment
 
 For complete details about the process in every step, kindly refer documents inside LLD directory of this project.
 
